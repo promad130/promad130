@@ -78,11 +78,6 @@ I enjoy building **systems, tools, and experimental software** that improve how 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=promad130&theme=tokyo-night"/>
 </p>
-
-## 🐍 Contribution Snake
-
-![snake gif](https://github.com/promad130/promad130/blob/output/github-contribution-grid-snake.svg)
-
 ---
 
 # 🚧 Current Projects
