@@ -1,7 +1,7 @@
 
 <!-- ===================== HEADER ===================== -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3500&pause=800&color=00F7FF&center=true&vCenter=true&width=750&lines=Hi+%F0%9F%91%8B+I'm+Dhruvin+Davada;Computer+Science+Student;AI+%7C+Systems+%7C+Game+Development;Building+Intelligent+Tools+and+Experimental+Software" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3500&pause=800&color=00F7FF&center=true&vCenter=true&width=750&lines=Hi+%F0%9F%91%8B+I'm+Dhruvin+Davada;MSc+Mathematics+Student;AI+%7C+Systems+%7C+Game+Development;Building+Intelligent+Tools+and+Experimental+Software" />
 </p>
 
 <p align="center">
@@ -78,6 +78,10 @@ I enjoy building **systems, tools, and experimental software** that improve how 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=promad130&theme=tokyo-night"/>
 </p>
+
+## 🐍 Contribution Snake
+
+![snake gif](https://github.com/promad130/promad130/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
